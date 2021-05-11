@@ -1,4 +1,4 @@
-machine:
+git machine:
   ruby:
     version: 2.3.1
 dependencies:
